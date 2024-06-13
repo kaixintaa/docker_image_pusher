@@ -5,4 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #jxxghp/moviepilot:latest
-linuxserver/transmission:v4.0.4
+transmission/transmission:v4.0.4
