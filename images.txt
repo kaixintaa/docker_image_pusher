@@ -6,4 +6,5 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #jxxghp/moviepilot:latest
 #transmission/transmission:v4.0.4
-linuxserver/transmission:v4.0.4
+#linuxserver/transmission:v4.0.4
+jeessy2/ddns-go:v3.0.0
