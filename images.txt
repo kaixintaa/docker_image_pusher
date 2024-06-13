@@ -6,4 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #jxxghp/moviepilot:latest
 #transmission/transmission:v4.0.4
-transmission/transmission
+linuxserver/transmission:v4.0.4
