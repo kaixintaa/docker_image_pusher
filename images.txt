@@ -7,4 +7,4 @@
 #jxxghp/moviepilot:latest
 #transmission/transmission:v4.0.4
 #linuxserver/transmission:v4.0.4
-jeessy2/ddns-go
+ddns-go
