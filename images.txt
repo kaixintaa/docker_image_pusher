@@ -4,8 +4,8 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-#jxxghp/moviepilot:latest
+jxxghp/moviepilot:latest
 #transmission/transmission:v4.0.4
 #linuxserver/transmission:v4.0.4
 #jeessy2/ddns-go:latest
-amilys/embyserver:latest
+#amilys/embyserver:latest
