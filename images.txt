@@ -9,4 +9,4 @@
 #linuxserver/transmission:v4.0.4
 #jeessy2/ddns-go:latest
 #amilys/embyserver:latest
-jxxghp/moviepilot-v2:V2.1.1
+jxxghp/moviepilot-v2:2.1.1
