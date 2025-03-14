@@ -10,4 +10,4 @@
 #jeessy2/ddns-go:latest
 #amilys/embyserver:latest
 #jxxghp/moviepilot-v2:2.1.1
-iyuuplus-dev:latest
+iyuucn/iyuuplus-dev:latest
