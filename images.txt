@@ -11,4 +11,4 @@
 #amilys/embyserver:latest
 #jxxghp/moviepilot-v2:2.1.1
 iyuucn/iyuuplus-dev:latest
-
+dreamacro/clash:latest
