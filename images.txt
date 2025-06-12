@@ -12,5 +12,5 @@
 #jxxghp/moviepilot-v2:latest
 #iyuucn/iyuuplus-dev:latest
 #dreamacro/clash:latest
-oldiy/frpc:latest
+#oldiy/frpc:latest
 oldiy/frps:latest
