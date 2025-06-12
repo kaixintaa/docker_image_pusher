@@ -13,3 +13,4 @@
 #iyuucn/iyuuplus-dev:latest
 #dreamacro/clash:latest
 oldiy/frpc:latest
+oldiy/frps:latest
