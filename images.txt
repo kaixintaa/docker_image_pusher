@@ -5,8 +5,8 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #jxxghp/moviepilot
-#transmission/transmission:v4.0.4
-linuxserver/docker-transmission:latest
+transmission/transmission:v4.0.4
+#linuxserver/docker-transmission:latest
 #jeessy2/ddns-go:latest
 #amilys/embyserver:latest
 #jxxghp/moviepilot-v2:latest
