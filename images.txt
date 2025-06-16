@@ -6,11 +6,11 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #jxxghp/moviepilot
 #transmission/transmission:v4.0.4
-#linuxserver/transmission:v4.0.4
+linuxserver/transmission:v4.0.5
 #jeessy2/ddns-go:latest
 #amilys/embyserver:latest
 #jxxghp/moviepilot-v2:latest
 #iyuucn/iyuuplus-dev:latest
 #dreamacro/clash:latest
 #oldiy/frpc:latest
-oldiy/frps:latest
+#oldiy/frps:latest
